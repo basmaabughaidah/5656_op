@@ -46,6 +46,12 @@ The project covers:
 - Dashboard-style visual storytelling  
 - Code documentation and notebook formatting  
 
+📂 **Download the Dataset**
+
+Due to file size limitations on GitHub, the dataset is hosted externally.  
+You can download it from [this Google Drive link](https://drive.google.com/your-file-link)  
+or from [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).
+
 ## 💻 How to Run
 
 1. Clone the repository or download the notebook.
