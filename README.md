@@ -49,8 +49,7 @@ The project covers:
 📂 **Download the Dataset**
 
 Due to file size limitations on GitHub, the dataset is hosted externally.  
-You can download it from [this Google Drive link](https://drive.google.com/your-file-link)  
-or from [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).
+You can download it from [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).
 
 ## 💻 How to Run
 
