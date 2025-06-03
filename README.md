@@ -51,10 +51,5 @@ The project covers:
 Due to file size limitations on GitHub, the dataset is hosted externally.  
 You can download it from [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).
 
-## 💻 How to Run
-
-1. Clone the repository or download the notebook.
-2. Open `Task1_Analysis.ipynb` in Google Colab or Jupyter Notebook.
-3. Run the cells in order to see the analysis and results.
 
 
