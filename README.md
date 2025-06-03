@@ -2,10 +2,31 @@
 
 This repository contains Task 1 of the Brainwave Matrix Solutions Internship Program.
 
-## 📌 Task Overview
+## 📊 Dataset Overview
 
-The task involves data analysis and visualization using Python and Jupyter notebooks.  
-The analysis includes data loading, preprocessing, exploratory data analysis (EDA), and meaningful visualizations using libraries such as pandas, seaborn, matplotlib, and plotly.
+The dataset used in this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).  
+It contains detailed **retail sales records** including:
+
+- `product_id`: Unique identifier for each product  
+- `store_id`: Identifier of the store where the sale occurred  
+- `date`: Date of the transaction  
+- `sales`: Quantity of product sold  
+- `revenue`: Total revenue generated  
+- `stock`, `price`: Inventory and pricing info  
+- `promo_type_x` and `promo_discount_x`: Promotional details applied during the sale  
+
+The dataset covers multiple dimensions of retail operations, making it suitable for time series analysis, RFM segmentation, customer behavior insights, and demand forecasting.
+
+## 🎯 Project Goal
+
+The goal of this task is to explore and analyze the retail sales dataset using Python and data visualization tools.  
+The project covers:
+- Cleaning and preparing the data
+- Identifying patterns in product sales
+- Calculating RFM metrics to segment product performance
+- Clustering products based on their RFM behavior
+- Building interactive visualizations to communicate insights
+
 
 ## 🧰 Technologies Used
 
@@ -30,17 +51,5 @@ The analysis includes data loading, preprocessing, exploratory data analysis (ED
 1. Clone the repository or download the notebook.
 2. Open `Task1_Analysis.ipynb` in Google Colab or Jupyter Notebook.
 3. Run the cells in order to see the analysis and results.
-
-## 📣 About the Internship
-
-This repository is part of my internship with **Brainwave Matrix Solutions**.  
-The project was assigned as **Task 1** and demonstrates practical data analytics and communication skills.
-
-## 🔗 Related Links
-
-- [Task Instructions](https://drive.google.com/file/d/1sP9dLJ5c7L7D2xPpmnw9tOaBydfoQcZa/view)
-- [Submission Form](https://forms.gle/54YWzaCYKrxzNZeGA)
-
----
 
 
