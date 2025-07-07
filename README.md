@@ -1,7 +1,3 @@
-# Brainwave Matrix Internship - Task 1
-
-This repository contains Task 1 of the Brainwave Matrix Solutions Internship Program.
-
 ## 📊 Dataset Overview
 
 The dataset used in this project is publicly available on [Kaggle](https://www.kaggle.com/datasets/berkayalan/retail-sales-data?resource=download).  
